@@ -2,7 +2,10 @@
 - 👀 I currently learning at Software Engeenering
 - 💞️ I’m looking to collaborate to develop my knowledge in Devollopper Full Stack
 - 📫 How to reach me: Just send me an e-mail : vatsynyavo6@gmail.com or my account Facebook : https://www.facebook.com/ystav.145
-
+<br>
+<br>
+Follow me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/Vatsy-Nyavo/)
 
 
 # Recent Activity
@@ -31,13 +34,6 @@ This is an example live preview that is updated every time a commit is pushed us
 Last Updated: Saturday, January 14th, 2023, 1:03:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7](https://github.com/Readme-Workflows/activity-template/pull/7) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)<br>
-2. 👍 Approved [#247](https://github.com/Readme-Workflows/recent-activity/pull/247#pullrequestreview-1247770758) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. 🔴 Requested changes in [#247](https://github.com/Readme-Workflows/recent-activity/pull/247#pullrequestreview-1247754293) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ✌️ Released [v2.4.1](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.4.1) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-<!--RECENT_ACTIVITY:end-->
 
 ## Features
 
@@ -114,7 +110,7 @@ You can find the contributing guidelines [here][guidelines].
 
 ## News
 
-Join our [Discord] and follow the `#news` channel or get a role from `#roles` channel to get notified about new updates and other important news.
+Join me [Discord] and follow the `#news` channel or get a role from `#roles` channel to get notified about new updates and other important news.
 
 ## Collected Data and Statistics
 
