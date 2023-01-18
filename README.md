@@ -6,6 +6,10 @@
 <br>
 Follow me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
+### :octocat: Profile Views
+
+[![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
+
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ystav" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
@@ -20,7 +24,18 @@ Follow me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
+<!---
+Eto le Adobe skills rehetra..!
+--->
+<br>
+  <kbd>
+    <kbd>Adobe Tools</kbd>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
+  </kbd>
+</br>
 ### 💻 Software and tools :
 
 <p>
