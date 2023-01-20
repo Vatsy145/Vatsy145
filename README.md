@@ -68,6 +68,14 @@ Eto le Adobe skills rehetra..!
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
     <img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
 </kbd>
+<kbd>
+    <kbd>Operating System</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</kbd>
 </br>
 
 
