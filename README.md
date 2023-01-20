@@ -36,6 +36,26 @@ Eto le Adobe skills rehetra..!
     <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
   </kbd>
 </br>
+<br>
+  <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+</br>
+<br>
+  <kbd>
+    <kbd>Cloud</kbd>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/amazon-web-services.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/google-cloud.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/azure-1.png" />
+  </kbd>
+</br>
+
 ### 💻 Software and tools :
 
 <p>
@@ -67,64 +87,8 @@ Eto le Adobe skills rehetra..!
 This GitHub Action is a Fork of the original [GitHub Activity Readme][githubActivityReadme] Action by [jamesgeorge007].  
 Its our goal is to improve the original GitHub Action while also providing new features for the users.
 
-## Live Preview
-
-This is an example live preview that is updated every time a commit is pushed using github actions.
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 14th, 2023, 1:03:48 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
-## Features
-
-### Support for many events
-
-Events we support:
-- CommitCommentEvent - commenting on a commit
-- CreateEvent - A new repo was created
-- ForkEvent - You forked a repo
-- GollumEvent - Wiki was updated in a repo
-- IssueCommentEvent - You commented on a issue
-- IssuesEvent - You opened a issue
-- MemberEvent - You joined a org/repo as a member
-- PullRequestEvent - You opened a pr.
-- PullRequestReviewCommentEvent - You commented on a pr review
-- PullRequestReviewEvent - You reviewed a pr
-- ReleaseEvent - You released a new version
-- WatchEvent - You watched a repo.
-
-### Customizable Settings
-
-Adjust the settings to fit all the needs of your profile readme. You can select disabled events, commit message, text for the events, the timezone, etc.
-
-## Setup
-
-A guide on how to set up this Action for the first time can be found on the [Setup Wiki page][setup].
-
-## Settings
-
-All available settings can be found on the [Wiki][settings].
-
-## History
-
-- The original project was inspired by [JasonEtco/activity-box][activityBox]
-- The original project was unmaintained when [PuneetGopinath] and [Abhishek][abhijoshi2k] wanted to get new feature added, so Puneet forked the repository and Abhishek supported his efforts.
-- We brought up the project to a new organisation named Readme-Workflows.
-- [Andre601] joined as a Member to maintain the documentation of the project.
-- Version 2 of the project was released bringing a new configuration-file, new events to list and more.
-
-## Community
-
-Get updates on Recent Activity's development and chat with the Recent Activity maintainers and community members.
-
-Please see the [SUPPORT.md][support] file for links.
-
-## Supporters
-
-👏 A big thank you goes to all the supporters of this project!
-
-You prove that the Recent-Activity Action has some value for you!
 
 ### Stargazers
 
@@ -140,18 +104,6 @@ Thanks to all contributors again!
 
 Visit our [Roadmap] for planned and upcoming features.
 
-## Support us
-
-Do you like this project?
-Why don't show your support by staring it ⭐ and joining all the other [stargazers]?
-
-## Contributing
-
-You can find the contributing guidelines [here][guidelines].
-
-## News
-
-Join me [Discord] and follow the `#news` channel or get a role from `#roles` channel to get notified about new updates and other important news.
 
 ## Collected Data and Statistics
 
