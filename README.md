@@ -15,9 +15,13 @@
 </p>
 </br>
 <br>
+<!--snake animation!-->
 
- 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
 </br>
+<!--Snake animation ends Here!-->
 <h3 align="left">Follow me</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
  :octocat: Profile Views
