@@ -7,6 +7,13 @@
 <br>
 <br>
 <br>
+## 🎧 Spotify Playing
+
+[![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
+
+[![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
+<!--Spotify playing end here!-->
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vatsy-nyavo-589542227/?midsig=2vttq5awvpnaa1&eid=frwjax-ld43dkzl-cz&midtoken=aqera0ukfhw64w&original_referer=&trkemail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-frwjax%7eld43dkzl%7ecz-null-null&trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&originalsubdomain=mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsy-nyavo-589542227/?midsig=2vttq5awvpnaa1&eid=frwjax-ld43dkzl-cz&midtoken=aqera0ukfhw64w&original_referer=&trkemail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-frwjax%7eld43dkzl%7ecz-null-null&trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&originalsubdomain=mg" height="30" width="40" /></a>
@@ -224,11 +231,6 @@ By using this Action, you are agreeing to allow the aforementioned data to be co
   </tr>
 </table>
 
-## 🎧 Spotify Playing
-
-[![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
-
-[![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
 <!---
 Vatsy145/Vatsy145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
