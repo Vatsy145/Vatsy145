@@ -15,7 +15,8 @@
 <!--Spotify playing end here!-->
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">![image](https://user-images.githubusercontent.com/80814790/214817902-ac23f4f8-893c-41e0-a448-fce14a125014.png)
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vatsy-nyavo-589542227/?midsig=2vttq5awvpnaa1&eid=frwjax-ld43dkzl-cz&midtoken=aqera0ukfhw64w&original_referer=&trkemail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-frwjax%7eld43dkzl%7ecz-null-null&trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&originalsubdomain=mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsy-nyavo-589542227/?midsig=2vttq5awvpnaa1&eid=frwjax-ld43dkzl-cz&midtoken=aqera0ukfhw64w&original_referer=&trkemail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-frwjax%7eld43dkzl%7ecz-null-null&trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&originalsubdomain=mg" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ystav.145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ystav.145" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uch2ds-nis5e6nbrqrncraea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uch2ds-nis5e6nbrqrncraea" height="30" width="40" /></a>
@@ -200,6 +201,7 @@ By using this Action, you are agreeing to allow the aforementioned data to be co
 
 [Discord]: https://discord.gg/aR6TcVzpbF
 
+
 <!-- Badges -->
 [starsBadge]: https://img.shields.io/github/stars/Readme-Workflows/recent-activity?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOCAuMjVhLjc1Ljc1IDAgMDEuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwMS40MTYgMS4yNzlsLTMuMDQ2IDIuOTcuNzE5IDQuMTkyYS43NS43NSAwIDAxLTEuMDg4Ljc5MUw4IDEyLjM0N2wtMy43NjYgMS45OGEuNzUuNzUgMCAwMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMDEuNDE2LTEuMjhsNC4yMS0uNjExTDcuMzI3LjY2OEEuNzUuNzUgMCAwMTggLjI1eiI+PC9wYXRoPjwvc3ZnPg==
 [forksBadge]: https://img.shields.io/github/forks/Readme-Workflows/recent-activity?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzLjI1YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTAgMi4xMjJhMi4yNSAyLjI1IDAgMTAtMS41IDB2Ljg3OEEyLjI1IDIuMjUgMCAwMDUuNzUgOC41aDEuNXYyLjEyOGEyLjI1MSAyLjI1MSAwIDEwMS41IDBWOC41aDEuNWEyLjI1IDIuMjUgMCAwMDIuMjUtMi4yNXYtLjg3OGEyLjI1IDIuMjUgMCAxMC0xLjUgMHYuODc4YS43NS43NSAwIDAxLS43NS43NWgtNC41QS43NS43NSAwIDAxNSA2LjI1di0uODc4em0zLjc1IDcuMzc4YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTMtOC43NWEuNzUuNzUgMCAxMDAtMS41Ljc1Ljc1IDAgMDAwIDEuNXoiPjwvcGF0aD48L3N2Zz4=
@@ -228,6 +230,9 @@ By using this Action, you are agreeing to allow the aforementioned data to be co
   <tr>
     <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154597715-da89bb07-2a80-4974-8ded-7e1083be2ee2.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
     <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
+  </tr>
+  <tr>
+   <img srcset="https://github.blog/wp-content/uploads/2022/12/ezgif-5-5d77cac9df.gif?resize=800%2C425 800w,https://github.blog/wp-content/uploads/2022/12/ezgif-5-5d77cac9df.gif?resize=1200%2C630 1600w" src="https://github.blog/wp-content/uploads/2022/12/ezgif-5-5d77cac9df.gif?resize=1200%2C630" alt="Game Off 2022 winners ??" class="cover-image rounded-2" width="1600" height="850">
   </tr>
 </table>
 
