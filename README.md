@@ -15,7 +15,7 @@
 <!--Spotify playing end here!-->
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">![image](https://user-images.githubusercontent.com/80814790/214817902-ac23f4f8-893c-41e0-a448-fce14a125014.png)
+
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vatsy-nyavo-589542227/?midsig=2vttq5awvpnaa1&eid=frwjax-ld43dkzl-cz&midtoken=aqera0ukfhw64w&original_referer=&trkemail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-frwjax%7eld43dkzl%7ecz-null-null&trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&originalsubdomain=mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vatsy-nyavo-589542227/?midsig=2vttq5awvpnaa1&eid=frwjax-ld43dkzl-cz&midtoken=aqera0ukfhw64w&original_referer=&trkemail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-frwjax%7eld43dkzl%7ecz-null-null&trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&originalsubdomain=mg" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ystav.145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ystav.145" height="30" width="40" /></a>
@@ -24,13 +24,8 @@
 </br>
 <br>
 <br>
-<!--snake animation!-->
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
 
 
-<!--Snake animation ends Here!-->
 <h3 align="left">Follow me</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
  :octocat: Profile Views
@@ -232,7 +227,11 @@ By using this Action, you are agreeing to allow the aforementioned data to be co
     <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
   </tr>
   <tr>
-   <img srcset="https://github.blog/wp-content/uploads/2022/12/ezgif-5-5d77cac9df.gif?resize=800%2C425 800w,https://github.blog/wp-content/uploads/2022/12/ezgif-5-5d77cac9df.gif?resize=1200%2C630 1600w" src="https://github.blog/wp-content/uploads/2022/12/ezgif-5-5d77cac9df.gif?resize=1200%2C630" alt="Game Off 2022 winners ??" class="cover-image rounded-2" width="1600" height="850">
+<!-- Eto ny Table manaraka!-->
+   <img srcset="https://github.blog/wp-content/uploads/2022/12/Release-Radar-October-2022.jpg?resize=400%2C212 400w,https://github.blog/wp-content/uploads/2022/12/Release-Radar-October-2022.jpg?resize=800%2C425 800w,https://github.blog/wp-content/uploads/2022/12/Release-Radar-October-2022.jpg?resize=1200%2C630 1600w" src="https://github.blog/wp-content/uploads/2022/12/Release-Radar-October-2022.jpg?resize=800%2C425" alt="Release Radar · October 2022 Edition" class="d-block width-full height-auto rounded-2 tease-thumbnail__img cover-image" loading="lazy" decoding="async" width="800" height="425">
+  </tr>
+  <tr>
+<!--Eto ny Table Manaraka!-->
   </tr>
 </table>
 
