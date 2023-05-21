@@ -21,6 +21,13 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uch2ds-nis5e6nbrqrncraea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uch2ds-nis5e6nbrqrncraea" height="30" width="40" /></a>
 </p>
 </br>
+
+# Contributors
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <br>
 <br>
 
@@ -30,6 +37,9 @@
  :octocat: Profile Views
 
 [![PRs Welcome](https://komarev.com/ghpvc/?username=larrymahumot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/larrymahumot)
+<div align="">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ystav" />
